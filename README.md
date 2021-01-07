@@ -5,8 +5,13 @@
 > /cs (Insert Callsign) | Changes Callsign
 > /callsign (Insert Callsign) | Changes Callsign
 > /atc (Insert Message) 
+> 
 > /me (Insert Message) 
+> 
 > /ooc (Insert Message) 
+> 
 > /dot (Insert Message) 
+> 
 > /gc (Insert Message) 
+> 
 > /twt (Insert Message) 
